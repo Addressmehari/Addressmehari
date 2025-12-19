@@ -11,7 +11,7 @@
 ---
 
 ### 🛠 Stack
-`Max2D` · `Godot` · `Python` · `Flutter` · `Supabase` · `Git`
+`Godot` · `Python` · `Flutter` · `Supabase` · `Git` · `C++` · `Javascript` · `Html/Css` ·  
 
 ---
 
