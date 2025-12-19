@@ -11,7 +11,7 @@
 ---
 
 ### 🛠 Stack
-`Godot` · `Python` · `Flutter` · `Supabase` · `Git` · `C++` · `Javascript` · `Html/Css` ·  
+`Godot` · `Python` · `Flutter` · `Supabase` · `Git` · `Web3` · `Javascript` · `React Js` · `c++` · `Dart` · 
 
 ---
 
