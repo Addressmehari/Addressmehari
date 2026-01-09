@@ -1,13 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/cfuL5gqFDreXxkWQ4o/giphy.gif" width="120" />
   
   <h1 align="center" style="font-family: 'Inter', sans-serif;">Hi, I'm Hari! 🦚</h1>
   
-  <p><i>"Curiosity didn't kill the cat; it just taught it to code."</i></p>
+  <p><i>"Curiosity didn't kill the cat; it just taught it to code ! meow"</i></p>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=500&lines=Game+Dev+Extraordinaire;Flutter+Magician;Web3+Sorcerer;Building+Digital+Sunshine" alt="Typing SVG" />
-  </a>
 </div>
 
 <br/>
