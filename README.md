@@ -2,7 +2,7 @@
   
   <h1 align="center" style="font-family: 'Inter', sans-serif;">Hi, I'm Hari! 🦚</h1>
   
-  <p><i>"Curiosity didn't kill the cat; it just taught it to code ! meow"</i></p>
+  <p><i>"Curiosity didn't kill the cat; it just taught to meow hard 😺"</i></p>
 
 </div>
 
@@ -10,11 +10,11 @@
 
 ### 📜 The Origin Story
 
-It started with a potato of a phone 📱 and **zero** clue how to turn on a laptop. Seriously. But that didn't stop me—I started building **GAMES** right there on that tiny screen! 🕹️
+It started with a potato of a phone 📱 Seriously.Curious me in 2021 started game dev on that tiny screen! 🕹️
 
-Fast forward ⏩ I swapped the mobile for a PC, and now I'm conquering the **B.Tech AIML** dungeon, battling mythical beasts like **LLMs** and **RAG Agents**. 🤖 But no matter how deep I dive into the AI abyss, my compass always points North to **Game Dev** and **Creative Tools**.
+Fast forward ⏩ I swapped the mobile for a PC, and now I'm studying the **B.Tech AIML**, Flighting with **LLMs** and **RAG Agents**.My compass 🧭 leads me toward thinking machines.
 
-I don't just write code; I build worlds. And one day? My creativity is going to bring a whole new kind of sunshine to this planet. ☀️
+And one day? My creativity is going to bring a whole new kind of sunshine to this planet. ☀️
 
 ---
 
@@ -35,6 +35,16 @@ I don't just write code; I build worlds. And one day? My creativity is going to 
 
 > **[GitVille 🏘️](https://github.com/addressmehari/GitVille)**
 >
-> _Turn your git contribution graph into a playable city! Every commit builds your world._ > <br/> > [![Play GitVille](https://img.shields.io/badge/Play-GitVille-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/addressmehari/GitVille)
+> _Turn your git contribution graph into a city! Every stars builds your world._ > <br/> > [![Play GitVille](https://img.shields.io/badge/Play-GitVille-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/addressmehari/GitVille)
 
 <br/>
+
+
+<p align="center">
+  <a href="https://instagram.com/Address_me_hari">
+    <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hari-prasath-7931852bb">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
