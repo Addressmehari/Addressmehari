@@ -12,7 +12,7 @@
 
 It started with a potato of a phone 📱 Seriously.Curious me in 2021 started game dev on that tiny screen! 🕹️
 
-Fast forward ⏩ I swapped the mobile for a PC, and now I'm studying the **B.Tech AIML**, Flighting with **LLMs** and **RAG Agents**.My compass 🧭 leads me toward thinking machines.
+Fast forward ⏩ I swapped the mobile for a PC, and now I'm studying the **B.Tech AIML**, Fighting with **LLMs** and **RAG Agents**.My compass 🧭 leads me toward thinking machines.
 
 And one day? My creativity is going to bring a whole new kind of sunshine to this planet. ☀️
 
@@ -40,11 +40,8 @@ And one day? My creativity is going to bring a whole new kind of sunshine to thi
 <br/>
 
 
-<p align="center">
-  <a href="https://instagram.com/Address_me_hari">
-    <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hari-prasath-7931852bb">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+## ✉️ Drop a Signal
+
+📸 Instagram → https://www.instagram.com/address_me_hari  
+💼 LinkedIn  → https://www.linkedin.com/in/hari-prasath-7931852bb  
+▶️ YouTube   → https://youtube.com/@address_me_hari  
