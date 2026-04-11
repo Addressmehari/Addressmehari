@@ -40,6 +40,17 @@ And one day? My creativity is going to bring a whole new kind of sunshine to thi
 <br/>
 
 
+## 🚀 My GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=addressmehari&theme=tokyonight&hide_border=true)
+
+---
+
+## 📊 My GitHub Stats
+
+![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=addressmehari&show_icons=true&theme=tokyonight)
+
+
 ## ✉️ Drop a Signal
 
 📸 Instagram → https://www.instagram.com/address_me_hari  
