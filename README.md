@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1 align="center" style="font-family: 'Inter', sans-serif;">Hi, I'm Hari! 🦚</h1>
+  <h1 align="center" style="font-family: 'Inter', sans-serif;">Hi, I'm Hari!</h1>
   
   <p><i>"Curiosity didn't kill the cat; it just taught to meow hard 😺"</i></p>
 
@@ -45,6 +45,10 @@ And one day? My creativity is going to bring a whole new kind of sunshine to thi
 ![GitHub Streak](https://streak-stats.demolab.com?user=addressmehari&theme=tokyonight&hide_border=true)
 
 ---
+
+
+
+
 
 ## ✉️ Drop a Signal
 
