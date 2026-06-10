@@ -1,25 +1,22 @@
 <div align="center">
-  
-  <h1 align="center" style="font-family: 'Inter', sans-serif;">Hi, I'm Hari!</h1>
-  
-  <p><i>"Curiosity didn't kill the cat; it just taught to meow hard 😺"</i></p>
-
+  <h1 align="center" style="font-family: 'Inter', sans-serif;">Heyyyy There, I'm Hari!</h1>
+  <p><i>"Curiosity >>>> Sleeping😺"</i></p>
 </div>
-
 <br/>
 
 
-### 📜 The Origin Story
+### 📜 Story
 
-It started with a potato of a phone 📱 Seriously.Curious me in 2021 started game dev on that tiny screen! 🕹️
+Started Coding to achieve my dream of game developing, Most will deviate. (But i am not 😊).
+I Thought Codes will turn into 3D models and positions and objects but Reality hit me🤯, I realized its hard... so i started so hard.
 
-Fast forward ⏩ I swapped the mobile for a PC, and now I'm studying the **B.Tech AIML**, Fighting with **LLMs** and **RAG Agents**.My compass 🧭 leads me toward thinking machines.
-
-And one day? My creativity is going to bring a whole new kind of sunshine to this planet. ☀️
+-Learning Godot  ( Indie Game development | GDScript)<br/>
+-Learning Unity  ( AR & VR Aplication Development | c# )<br/>
+-Learning AIML   ( B.Tech | Python )<br/>
 
 ---
 
-### 🧰 The Arsenal
+### 🧰 Tools I Know
 
 | Category            | Stack                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | :------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,22 +29,21 @@ And one day? My creativity is going to bring a whole new kind of sunshine to thi
 
 <br/>
 
-### 🏆 Featured Project
+### 🏆 Favorite Project
 
 > **[GitVille 🏘️](https://github.com/addressmehari/GitVille)**
 >
-> _Turn your git contribution graph into a city! Every stars builds your world._ > <br/> > [![Play GitVille](https://img.shields.io/badge/Play-GitVille-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/addressmehari/GitVille)
+> _Turn your Numbers into Beautiful Town_ > <br/> > [![Play GitVille](https://img.shields.io/badge/Play-GitVille-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/addressmehari/GitVille)
 
 <br/>
 
 
-## 🚀 My GitHub Streak
-
+## 🚀 Daily Contributions
 ![GitHub Streak](https://streak-stats.demolab.com?user=addressmehari&theme=tokyonight&hide_border=true)
 
 ---
 
-## ✉️ Drop a Signal
+## ❤️ You can Find me,
 
 📸 Instagram → https://www.instagram.com/address_me_hari  
 💼 LinkedIn  → https://www.linkedin.com/in/hari-prasath-7931852bb  
