@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center" style="font-family: 'Inter', sans-serif;">Heyyyy There, I'm Hari!</h1>
+  <h3 align="center" style="font-family: 'Inter', sans-serif;">Heyyyy There, I'm Hari!</h3>
   <p><i>"Curiosity >>>> Sleeping😺"</i></p>
 </div>
 <br/>
