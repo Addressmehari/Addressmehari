@@ -1,6 +1,6 @@
 <div align="center">
   <h3 align="center" style="font-family: 'Inter', sans-serif;">Heyyyy There, I'm Hari!</h3>
-  <p><i>"Curiosity >>>> Sleeping😺"</i></p>
+  <p><i>"Curiosity >>> Sleeping😺"</i></p>
 </div>
 <br/>
 
@@ -10,8 +10,8 @@
 Started Coding to achieve my dream of game developing, Most will deviate. (But i am not 😊).
 I Thought Codes will turn into 3D models and positions and objects but Reality hit me🤯, I realized its hard... so i started so hard.
 
--Learning Godot  ( Indie Game development | GDScript)<br/>
--Learning Unity  ( AR & VR Aplication Development | c# )<br/>
+-Learning Godot  ( Indie Game development💫 | GDScript)<br/>
+-Learning Unity  ( AR & VR Aplication & game Development | c# )<br/>
 -Learning AIML   ( B.Tech | Python )<br/>
 
 ---
