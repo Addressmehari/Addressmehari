@@ -40,9 +40,10 @@ I Thought Codes will turn into 3D models and positions and objects but Reality h
 <br/>
 
 
-## 📈 Contribution Graph
+## 🚀 Coding Activity
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=addressmehari&theme=tokyo-night)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=addressmehari&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addressmehari&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ---
 
