@@ -33,7 +33,9 @@ I Thought Codes will turn into 3D models and positions and objects but Reality h
 
 > **[GitVille 🏘️](https://github.com/addressmehari/GitVille)**
 >
-> _Turn your Numbers into Beautiful Tiny isometric Town_ > <br/> > [![Play GitVille](https://img.shields.io/badge/Play-GitVille-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/addressmehari/GitVille)
+> Turn your GitHub stats into a beautiful tiny isometric town.
+>
+> [![Play GitVille](https://img.shields.io/badge/Play-GitVille-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/addressmehari/GitVille)
 
 <br/>
 
