@@ -40,10 +40,9 @@ I Thought Codes will turn into 3D models and positions and objects but Reality h
 <br/>
 
 
-🌃Contribution Graph
+## 📈 Contribution Graph
 
-"Pacman contribution graph" (https://raw.githubusercontent.com/addressmehari/addressmehari/output/pacman-contribution-graph-dark.svg)
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=addressmehari&theme=tokyo-night)
 ---
 
 ## ❤️ You can Find me,
