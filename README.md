@@ -40,9 +40,9 @@ I Thought Codes will turn into 3D models and positions and objects but Reality h
 <br/>
 
 
-📅 Isometric Commit Calendar
+🌃Contribution Graph
 
-"Metrics" (https://metrics.lecoq.io/addressmehari?template=isocalendar&isocalendar=1&config.timezone=Asia/Kolkata)
+"Pacman contribution graph" (https://raw.githubusercontent.com/addressmehari/addressmehari/output/pacman-contribution-graph-dark.svg)
 
 ---
 
