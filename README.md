@@ -40,10 +40,9 @@ I Thought Codes will turn into 3D models and positions and objects but Reality h
 <br/>
 
 
-## 🚀 Coding Activity
+📅 Isometric Commit Calendar
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=addressmehari&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addressmehari&layout=compact&theme=tokyonight&hide_border=true"/>
+"Metrics" (https://metrics.lecoq.io/addressmehari?template=isocalendar&isocalendar=1&config.timezone=Asia/Kolkata)
 
 ---
 
