@@ -40,8 +40,9 @@ I Thought Codes will turn into 3D models and positions and objects but Reality h
 <br/>
 
 
-## 🚀 Daily Contributions
-![GitHub Streak](https://streak-stats.demolab.com?user=addressmehari&theme=tokyonight&hide_border=true)
+🚀 Daily Contributions
+
+""GitHub Streak" (https://github-readme-streak-stats-eight.vercel.app?user=addressmehari&theme=tokyonight&hide_border=true)" (https://git.io/streak-stats)
 
 ---
 
