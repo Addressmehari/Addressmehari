@@ -1,6 +1,6 @@
 <div align="center">
   <h3 align="center" style="font-family: 'Inter', sans-serif;">Heyyyy There, I'm Hari!</h3>
-  <p><i>"Curiosity >>> Sleeping😺"</i></p>
+  <p><i>"Curiosity > Sleeping😺"</i></p>
 </div>
 <br/>
 
